@@ -11,6 +11,7 @@ theme:
     accent: pink
 extra:
   social:
+
     - type: github
       link: https://github.com/vinta
     - type: twitter
