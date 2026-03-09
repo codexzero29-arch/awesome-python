@@ -1,4 +1,4 @@
----
+ ---
 name: Add XXX
 about: Add new item to the list
 title: ''
